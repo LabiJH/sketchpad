@@ -2,12 +2,10 @@
     margin:0;
     padding:0;
 }
-.HoverClass:hover{
-    background-color: black;
-}
+
 
 body{
-    background: lightblue;
+    background: white;
 }
 
 #container{
@@ -29,7 +27,7 @@ padding:10px;
 .canvas{
 width:960px;
 height:700px;
-border:1px solid red;
+border:1px solid black;
 display:grid;
 grid-template-columns: 1fr;
 }
